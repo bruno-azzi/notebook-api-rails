@@ -20,6 +20,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
-# notebook-api-rails git init git add README.md git commit -m first commit git branch -M main git remote add origin git@github.com:bruno-azzi/notebook-api-rails.git git push -u origin main
