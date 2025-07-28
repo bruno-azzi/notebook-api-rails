@@ -7,6 +7,11 @@ gem "rails-i18n", "~> 8.0.0"
 gem "sqlite3", ">= 2.1"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
+
+gem "jwt"
+gem "devise"
+gem "devise_token_auth"
+gem "devise-i18n"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
