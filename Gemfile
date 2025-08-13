@@ -14,7 +14,7 @@ gem "devise_token_auth"
 gem "devise-i18n"
 gem "versionist", "~> 1.5.0"
 gem "kaminari"
-gem "rspec-rails", "~> 3.5"
+gem "rspec-rails", "~> 8.0"
 # gem "api-pagination"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
